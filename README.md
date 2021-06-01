@@ -1,6 +1,12 @@
 # stereo-pit-detection
 Обнаружение автодорожных выбоин на стерео-изображении / Driveway pit detection on stereo-images
-<br/><br/>
+<br><br>
+![Example 1](https://raw.githubusercontent.com/cuttenEDU/stereo-pit-detection/main/example1.png)
+![Example 2](https://raw.githubusercontent.com/cuttenEDU/stereo-pit-detection/main/example2.png)
+![Example 3](https://raw.githubusercontent.com/cuttenEDU/stereo-pit-detection/main/example3.png)
+
+
+<br><br>
 # RUS
 ## Системные требования
   +	Операционная система Ubuntu Linux версии 18.05.4 LTS
