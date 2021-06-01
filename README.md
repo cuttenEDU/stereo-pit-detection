@@ -19,6 +19,10 @@
 MC-CNN: https://drive.google.com/file/d/1riH1ELszBPzKKVa1BYzoVleavsqrZkp0/view?usp=sharing  
 MASK R-CNN: https://drive.google.com/file/d/1LPRd46q7QNyFyMMu5lnVK4ZUhiSu3yGm/view?usp=sharing
 
+## Датасет
+Неразмеченные стереопары: (3 GB)
+Размеченные карты диспаратности: https://drive.google.com/file/d/1j4QBDrXq0MonxIxJYveP9HLSQoRhyB1R/view?usp=sharing 
+
 <br/><br/>
 # ENG
 ## System requirements
@@ -36,3 +40,7 @@ Each .py file (excluding MC-CNN/model.py) has CLI interface. To get help on how 
 ## Pretrained models
 MC-CNN: https://drive.google.com/file/d/1riH1ELszBPzKKVa1BYzoVleavsqrZkp0/view?usp=sharing  
 MASK R-CNN: https://drive.google.com/file/d/1LPRd46q7QNyFyMMu5lnVK4ZUhiSu3yGm/view?usp=sharing
+
+## Dataset
+raw stereopairs: https://drive.google.com/file/d/1ovk6voepT4fDJvND3FDANfJ7EsNQgys1/view?usp=sharing (3 GB)
+labeled disps: https://drive.google.com/file/d/1j4QBDrXq0MonxIxJYveP9HLSQoRhyB1R/view?usp=sharing
